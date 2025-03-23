@@ -1,2 +1,2 @@
 # Single-Camera-Calibration
-ChArUco detection based Jhang's method calibration
+ChArUco detection based Zhang's method calibration
